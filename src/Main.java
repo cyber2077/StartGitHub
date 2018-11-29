@@ -11,6 +11,6 @@ class Main {
 	array.add("フランス");
 
 	String country = array.get(2);
-	System.out.println(country);
+	System.out.println(country); //イングランド
     }
 }
