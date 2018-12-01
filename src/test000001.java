@@ -4,7 +4,7 @@ class test000001 {
 	for (int i = aa; i >= 1; i--) {
 	    System.out.println(i);
 
-	    // test用の sample   ★マスターから　編集しました
+	    // test用の sample   ★マスターから　　2回目　編集しました
 	}
     }
 }
